@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+div {
+    border:5px solid white;
+    border-width: 50%;
+    margin-left: 25%;
+    font-size: 2em;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+h1 {
+    font-family: 'Comforter', Courier;
+    color:white;
+    text-transform: uppercase;
+    text-align: center;    
+}
+p {
+    font-family: 'Comforter', Courier;
+    color:white;
+    text-align: center;
+    /* font-size: 40px; */
+}
+p em {
+    color: rgb(248, 71, 248);
+}
