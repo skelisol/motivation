@@ -2,14 +2,15 @@ body {
     background-color: black;
 }
 div {
-    border:5px solid white;
-    border-width: 50%;
+    width: 50%;
     margin-left: 25%;
     font-size: 2em;
 }
 img {
     max-width: 100%;
     max-height: 100%;
+    border:5px solid white;
+
 }
 h1 {
     font-family: 'Comforter', Courier;
